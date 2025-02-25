@@ -1,3 +1,5 @@
 # CS10HA2
 
-still in dev
+just don't look at the code its bad bruh
+
+gooffy project
