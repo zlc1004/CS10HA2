@@ -79,7 +79,7 @@ The Personal and Social Core Competency has three interrelated sub-competencies:
 - Teachers can use the sub-competency profiles and illustrations to support students in their growth as educated citizens
 - Providing students with meaningful tasks and activities, where they can explicitly reflect on where and how they are using the Core Competencies, will further their development in Communication, Thinking, and Personal and Social. The illustrations for each sub-competency provide examples of rich tasks, activities, and feedback
 - The Core Competencies are embedded within the curriculum and are naturally supported when students engage with the Big Ideas and Curricular Competencies in each area of learning. Examples of explicit connections with Big Ideas can be found in the “Connection” section for each sub-competency
-- Teachers support students in assessing their own growth in the Core Competencies. (For more information on assessment and the Core Competencies, please see (Classroom Assessment and Reporting)[https://curriculum.gov.bc.ca/classroom-assessment])
+- Teachers support students in assessing their own growth in the Core Competencies. (For more information on assessment and the Core Competencies, please see [Classroom Assessment and Reporting](https://curriculum.gov.bc.ca/classroom-assessment))
 
 ---
 
@@ -87,3 +87,4 @@ The Personal and Social Core Competency has three interrelated sub-competencies:
 - Parents/guardians will likely already have some understanding of their students’ development in Communication, Thinking, and Personal and Social
 - Formal school tasks and activities often look different from the more informal tasks students are involved in at home. While both contexts are valuable, parents/guardians can expect that a student’s use of the Core Competencies may look very different in these two contexts
 - The illustrations offer examples from a variety of contexts and can provide parents/guardians with a new lens through which to view their students’ development as educated citizens
+
